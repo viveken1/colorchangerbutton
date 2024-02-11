@@ -1,0 +1,24 @@
+.background{
+  width: 100%;
+  height: 100vh;
+  background-color: rgb(11, 233, 233);
+  border: dotted yellowgreen;
+  text-align: center;
+  justify-content: center;
+}
+button{
+  padding: 5px;
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+  border: none;
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: rgb(241, 12, 225);
+  font-weight:300 ;
+  font-size: 15px;
+}
+.heading{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
